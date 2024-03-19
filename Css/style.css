@@ -275,4 +275,9 @@ header{
   width:80px;
   height: 80px;
 }
+.phone-number {
+  text-align: center;
+  width:auto;
+  margin-right:100px;
+}
 
