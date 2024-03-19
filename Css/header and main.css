@@ -167,3 +167,21 @@
   color:black;
   border: 2px solid black;
 }
+.steps{
+  overflow:auto;
+  margin: 40px auto;
+  width: 280px;
+  text-align: center;
+  float:left;
+  padding-bottom: 30px;
+}
+.steps p{
+  font-size:larger;
+}
+.feedback-container{
+  overflow:auto;
+  margin: 40px auto;
+  width: 280px;
+  text-align: center;
+  padding-bottom: 30px;
+}
