@@ -13,7 +13,7 @@
   .container {
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); 
-    gap: 90px; 
+    gap: 150px; 
     justify-content: center; 
     margin:auto;
     width:1200px;
@@ -91,6 +91,11 @@
 }
 .nav-links a:hover {
   text-decoration: underline;
+}
+header{
+  position: sticky;
+  top: 0px;
+  background-color: white;
 }
 .order-button button {
   height: 35px;
@@ -251,3 +256,23 @@
 .feedback-rectangle p {
   margin-left: 5px;
 }
+.footer-container{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.mail{
+  text-align: center;
+}
+.mail img{
+  width:80px;
+  height: 80px;
+}
+.social-networks{
+  text-align: center;
+}
+.social-networks img{
+  width:80px;
+  height: 80px;
+}
+
