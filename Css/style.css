@@ -135,7 +135,7 @@ header{
   float: left;
 }
 .main-offer{
-  margin-left: 0; 
+    margin-left: 0; 
     margin-right: auto; 
     width: 630px;
     float: right;
@@ -164,7 +164,7 @@ header{
 .main-img{
   margin-top:30px;
   margin-bottom:30px;
-  border-radius: 10px;
+  border-radius: 20px;
   height: auto;
   width: auto;
 }
